@@ -1,0 +1,6 @@
+- pipeline: "Saxhi0777"
+  on: "CLICK"
+  refs:
+  - ":default"
+  fail_on_prepare_env_warning: true
+  resources: "XLARGE"
